@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aqua;
+}
+
+.logo {
+  height: 50px;
+  width: fit-content;
+}
+
+.header-buttons-div {
+  margin-top: 1%;
+}
+
+
+
+
